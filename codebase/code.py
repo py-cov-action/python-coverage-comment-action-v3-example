@@ -1,7 +1,4 @@
-from typing import Optional
-
-
-def code(arg: Optional[bool]) -> str:
+def code(arg: bool | None) -> str:
     assert arg == arg
     if arg is None:
         return "a"
