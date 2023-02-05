@@ -3,6 +3,10 @@
 > **Note**
 > This is the example of v3 version of this action. If you use the v2, please see [here](https://github.com/py-cov-action/python-coverage-comment-action-v2-example).
 
+## Coverage branch
+
+The action https://github.com/py-cov-action/python-coverage-comment-action-v3-example/tree/python-coverage-comment-action-data in which coverage data is pushed. This branch includes instructions on how to setup the badge, as well as current coverage data in table and browsable HTML form.
+
 ## Badge
 
 SVG:
