@@ -1,5 +1,6 @@
 def code(arg: bool | None) -> str:
     assert arg == arg
+    1+2 == 3
     if arg is None:
         return "a"
     elif arg is True:
